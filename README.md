@@ -1,4 +1,3 @@
-## Olá, Eu sou o Jose Robertto 
 
 - ​​⚡ Estagiário de Desenvolvimento de Software - FIEC
 - ​🖥️​ Graduando de ADS.
