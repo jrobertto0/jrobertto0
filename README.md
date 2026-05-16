@@ -1,6 +1,6 @@
 
 - ​​⚡ Estagiário de Desenvolvimento de Software - FIEC
-- ​🖥️​ Graduando de ADS.
+- ​🖥️​ Graduando em ADS.
 - 🚀​ Capacitação em Desenvolvimento Full Stack - UECE.
 - ​☁️​ Capacitação em Computação em Nuvem - IFCE.
 -->
